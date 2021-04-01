@@ -17,7 +17,7 @@ function App() {
   setContacts([...contacts, {id: uuid(), ...contact}]);
  }
 
- const deleteContact  = (id) => 
+ const deleteContact = (id) => 
  {
    const newContactList= contacts.filter((contact)=>
    {

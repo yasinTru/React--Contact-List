@@ -1,7 +1,7 @@
 import React from "react";
 import userAvatar from "../images/userAvatar.png";
 
-const ContactCard = (props) =>
+const ContactCard =(props) =>
 {
     const {id, name, email}= props.contact;
 

@@ -9,6 +9,7 @@ const Header= () =>
         <h2> Contact List Menu </h2>
 
         </div>
+        
     </div>
 
     );

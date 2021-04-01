@@ -24,7 +24,7 @@ this.setState({name:"", email:""});
 
 render()
 {
-
+ 
     return(
 
         <div className="ui main">
